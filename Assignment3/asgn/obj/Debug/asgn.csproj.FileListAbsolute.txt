@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\C#_File\asgn\asgn\bin\Debug\asgn.exe.config
+C:\Users\HP\Desktop\C#_File\asgn\asgn\bin\Debug\asgn.exe
+C:\Users\HP\Desktop\C#_File\asgn\asgn\bin\Debug\asgn.pdb
+C:\Users\HP\Desktop\C#_File\asgn\asgn\obj\Debug\asgn.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#_File\asgn\asgn\obj\Debug\asgn.exe
+C:\Users\HP\Desktop\C#_File\asgn\asgn\obj\Debug\asgn.pdb
